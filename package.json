@@ -1,0 +1,31 @@
+{
+  "name": "api-dzikir-pagi-petang",
+  "version": "1.0.0",
+  "description": "A RESTful API service providing authentic Dzikir Pagi and Sore (Morning and Evening Remembrance) data based on Hisnul Muslim. Built with Node.js and Express to support Islamic mindfulness applications.",
+  "keywords": [
+    "dzikir pagi petang",
+    "dzikir pagi",
+    "dzikir petang",
+    "dzikir",
+    "hisnul muslim"
+  ],
+  "homepage": "https://github.com/kanglerian/api-dzikir-pagi-petang#readme",
+  "bugs": {
+    "url": "https://github.com/kanglerian/api-dzikir-pagi-petang/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanglerian/api-dzikir-pagi-petang.git"
+  },
+  "license": "ISC",
+  "author": "Lerian",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}
