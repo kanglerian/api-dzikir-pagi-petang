@@ -9,7 +9,7 @@ API sederhana berbasis Node.js untuk menyajikan data Dzikir Pagi dan Petang sesu
 
 ## 🚀 Live Demo Aplikasi
 Aplikasi yang menggunakan API ini dapat dicoba langsung di:
-👉 **[http://dzikir-pagi-sore.kodelabo.com/](http://dzikir-pagi-sore.kodelabo.com/)**
+👉 **[http://dzikir-pagi-sore.kodelabo.com/](https://dzikir-pagi-sore.kodelabo.com/)**
 
 ---
 
@@ -52,7 +52,7 @@ Proyek ini bersifat **Open Source** dan bebas digunakan oleh siapa saja (**FREE*
 > **Amal Jariyah:** Silakan gunakan API ini untuk membangun aplikasi bermanfaat lainnya. Tidak perlu izin khusus, namun mencantumkan atribusi sangat dihargai sebagai bentuk dukungan.
 
 ### 👤 Author
-**Lerian** - Website: [kodelabo.com](http://dzikir-pagi-sore.kodelabo.com/)
+**Lerian** - Website: [kodelabo.com](https://kodelabo.com/)
 - GitHub: [@kanglerian](https://github.com/kanglerian)
 
 ---
