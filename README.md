@@ -38,6 +38,7 @@ Mendapatkan daftar lengkap bacaan dzikir petang.
 Setiap item dalam array berisi:
 - `judul`: Nama bacaan dzikir.
 - `arab`: Teks dalam huruf Hijaiyah.
+- `dalil`: Sumber riwayat hadits atau keutamaan membaca dzikir tersebut.
 - `latin`: Transliterasi untuk membantu pembacaan.
 - `arti`: Terjemahan dalam Bahasa Indonesia.
 - `ulang`: Jumlah pengulangan yang disunnahkan.
